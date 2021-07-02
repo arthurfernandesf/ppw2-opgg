@@ -15,7 +15,7 @@ Libs
 ##
 
 # Exemplo de api Rank
-URL: http://localhost:8080/api/rank?nome=qiyanazedzed1
+URL: https://ppw2-opgg.herokuapp.com/api/rank?nome=qiyanazedzed1
 Retorno:
 [
   {
@@ -27,7 +27,7 @@ Retorno:
 ]
 
 # Exemplo de api level
-URL: http://localhost:8080/api/level?nome=Carinhosa
+URL: https://ppw2-opgg.herokuapp.com/api/level?nome=Carinhosa
 Retorno:
 [
   {
